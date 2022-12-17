@@ -1,1 +1,1 @@
-### A dapp that enables uses transfer ethererum
+A dapp that enables users transfer ethererum
